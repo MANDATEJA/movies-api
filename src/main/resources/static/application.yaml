@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://madmint:Hawkeye9123@cluster0.r977e5b.mongodb.net/
